@@ -84,7 +84,7 @@ flex-shrink: 0;
 background-position: center;
 margin: 48px auto 120px ;
 }
-/* section-2 styles */
+/* section-2 styles  */
 .section-2{
 background: url("../images/Vectorrr.png");
 width: auto;
@@ -123,9 +123,7 @@ font-weight: 700;
 text-transform: uppercase;
 padding: 0 617.96px 142px 158px;
 }
-/* .div-sec2{
-    padding: 126px 497px 142px 126px;
-} */
+
 /* all small text styles */
 .small-text{
     width: 697px;
@@ -139,4 +137,44 @@ padding: 0 39.17px 48px 126px;
 }
 .section-2-pic{
     padding: 68.11px 138px 67.23px 0;
+   background-attachment: ;
+}
+.section-3{
+    text-align: center;
+   background:linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+margin: 0 140px 120px 140px;
+background-position: center;
+background-size: 100% 100%;
+ width: auto;
+height: 482px;
+flex-shrink: 0;
+}
+.stext{
+    color: #F00;
+}
+.all-stext{
+    color: #070211;
+    font-family: 'Inter', sans-serif;
+font-size: 32px;
+
+font-weight: 600;
+line-height: 56px;
+text-transform: capitalize;
+padding: 100px 386px 48px 386px;
+}
+.button1{
+    color: #FFF;
+font-family: 'Inter', sans-serif;
+font-size: 20px;
+font-weight: 700px;
+text-transform: uppercase;
+text-decoration: none;
+border: 15px;
+display: inline-flex;
+padding: 16px 32px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-radius: 8px;
+background: #F00;
 }

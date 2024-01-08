@@ -178,3 +178,102 @@ gap: 10px;
 border-radius: 8px;
 background: #F00;
 }
+
+
+/* section 4 styles */
+
+.bonous{
+    background-color: #FFF;
+    width: auto;
+    height: 482px;
+background-position: center;
+display: flex;
+background-size: 100% 100%;
+margin: 0 140px 120px 140px;
+flex-shrink: 0;
+justify-content: space-between;
+}
+.red-color{
+    color: #F00;
+/* text-align: center; */
+font-family: 'Inter', sans-serif;
+font-size: 24px;
+font-weight: 500;
+
+}
+.text7{
+    color: #070211;
+    font-family: 'Merriweather', serif;
+font-size: 48px;
+font-weight: 900;
+text-transform: capitalize;
+}
+.offer-text{
+    width: 393px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter', sans-serif;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+.red-button{
+    color: #F00;
+    font-family: 'Inter', sans-serif;
+font-size: 48px;
+font-weight: 700;
+}
+.offer-text1{
+    width: 276px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter', sans-serif;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+.bonous2{
+
+flex-shrink: 0;
+border-radius: 100%;
+border: 15px solid #F00;
+padding: 49px;
+}
+/* section five styles */
+.section-5{
+
+}
+.big{
+    color: #F00;
+text-align: center;
+font-family: 'Merriweather', serif;
+font-size: 72px;
+
+font-weight: 900;
+
+}
+.big-class{
+    color: #070211;
+    font-family: 'Merriweather', serif;
+font-size: 72px;
+font-weight: 900;
+
+}
+.text9{
+    color: #070211;
+    font-family: 'Inter', sans-serif;
+font-size: 24px;
+font-weight: 500;
+}
+.text10{
+    width: 1068px;
+    color: rgba(7, 2, 17, 0.60);
+font-family: 'Inter', sans-serif;
+font-size: 20px;
+font-weight: 500;
+line-height: 32px; /* 160% */
+margin-left: auto;
+margin-right: auto;
+}
+.section5-div{
+    text-align: center;
+    
+}
